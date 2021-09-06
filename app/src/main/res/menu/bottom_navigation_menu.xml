@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/home_navigation" android:id="@+id/home_navigation"  />
+    <item android:title="@string/best_sellers_navigation" android:id="@+id/nav_best_sellers" />
+    <item android:title="@string/history_navigation" android:id="@+id/nav_history" />
+    <item android:title="@string/science_navigation" android:id="@+id/nav_science" />
+    <item android:title="@string/business_navigation" android:id="@+id/nav_business" />
+
+</menu>

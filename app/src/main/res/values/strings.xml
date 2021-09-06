@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BookStore</string>
+    <string name="home_navigation">All</string>
+    <string name="best_sellers_navigation">Best Sellers</string>
+    <string name="history_navigation">History</string>
+    <string name="science_navigation">Science</string>
+    <string name="business_navigation">Business</string>
+    <string name="label_imported">Imported</string>
+    <string name="isbn">ISBN: %1$s</string>
+</resources>
